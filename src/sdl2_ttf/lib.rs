@@ -1,11 +1,6 @@
 /*!
-A binding for SDL2_ttf.
- */
-
-#![crate_type = "lib"]
-#![desc = "SDL2_ttf bindings and wrappers"]
-#![comment = "SDL2_ttf bindings and wrappers"]
-#![license = "MIT"]
+    A binding for SDL2_ttf.
+*/
 
 extern crate libc;
 extern crate sdl2;
